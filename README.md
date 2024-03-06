@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Personal Projects:</h2>
 
-- <b>TaskMaster: To-Do List App(AlgoExpert)</b>
+- <b>TaskMaster: To-Do List App</b>
   - [TaskMaster](https://github.com/mchahal7/To-Do-List.git)
 
 <h2>📺 Popular YouTube Videos</h2>
