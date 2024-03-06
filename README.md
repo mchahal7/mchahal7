@@ -17,7 +17,7 @@
 
 [twitter]: https://twitter.com/joshmadakor
 [instagram]: https://www.instagram.com/mchahal_7/
-[linkedin]: https://linkedin.com/in/monodeep-chahal
+[linkedin]: https://www.linkedin.com/in/monodeep-chahal-871355290/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
