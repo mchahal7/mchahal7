@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Personal Projects:</h2>
 
-- <b>Task Master: To-Do List App(AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>TaskMaster: To-Do List App(AlgoExpert)</b>
+  - [TaskMaster](https://github.com/mchahal7/To-Do-List.git)
 
 <h2>📺 Popular YouTube Videos</h2>
 
