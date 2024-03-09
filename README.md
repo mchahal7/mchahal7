@@ -1,4 +1,4 @@
-<h1>Hi, I'm Monodeep! <br/><a href="https://github.com/mchahal7" style="font-size: smaller;">Student at the University of Maryland</a>
+<h1>Hi, I'm Monodeep! <br/>Student at the University of Maryland
   
 <h2>👨‍💻 Personal Projects:</h2>
 
