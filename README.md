@@ -4,11 +4,10 @@
 
 - <b>TaskMaster: To-Do List App</b>
   - [TaskMaster](https://github.com/mchahal7/To-Do-List.git)
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
+ 
+<h2>🔭 I’m currently working on:</h2>
+- <b>WeatherWise: A location-specific app providing precise weather forecasts for users</b>
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -18,6 +17,7 @@
 [twitter]: https://twitter.com/mchahal_7
 [instagram]: https://www.instagram.com/mchahal_7/
 [linkedin]: https://www.linkedin.com/in/monodeep-chahal-871355290/
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
