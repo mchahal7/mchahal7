@@ -1,5 +1,5 @@
-<h1>Hi, I'm Monodeep! <br/><h2><a href="https://github.com/mchahal7">Student at the University of Maryland</a></h2>
-
+<h1>Hi, I'm Monodeep! <br/><a href="https://github.com/mchahal7" style="font-size: smaller;">Student at the University of Maryland</a>
+  
 <h2>👨‍💻 Personal Projects:</h2>
 
 - **TaskMaster**: To-Do List App</b>
