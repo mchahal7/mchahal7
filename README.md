@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Personal Projects:</h2>
 
-- <b>TaskMaster: To-Do List App</b>
+- **TaskMaster**: To-Do List App</b>
   - [TaskMaster](https://github.com/mchahal7/To-Do-List.git)
  
 ## 🔭 I’m currently working on:
