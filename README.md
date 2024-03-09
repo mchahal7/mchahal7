@@ -1,4 +1,6 @@
-<h1>Hi, I'm Monodeep! <br/>Student at the University of Maryland
+## Hey, I'm Monodeep 👋🏽
+
+I'm a 21-year-old developer based in Maryland, and I'm passionate about crafting digital experiences.
   
 <h2>👨‍💻 Personal Projects:</h2>
 
