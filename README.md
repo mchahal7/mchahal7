@@ -5,8 +5,9 @@
 - <b>TaskMaster: To-Do List App</b>
   - [TaskMaster](https://github.com/mchahal7/To-Do-List.git)
  
-<h2>🔭 I’m currently working on:</h2>
-- <b>WeatherWise: A location-specific app providing precise weather forecasts for users</b>
+## 🔭 I’m currently working on:
+- **WeatherWise**: A location-specific app providing precise weather forecasts for users.
+
   
 <h2> 🤳 Connect with me:</h2>
 
