@@ -6,10 +6,11 @@ I'm a 21-year-old developer based in Maryland, and I'm passionate about crafting
 
 - **TaskMaster**: To-Do List App</b>
   - [TaskMaster](https://github.com/mchahal7/To-Do-List.git)
+- **WeatherWise**: A location-specific app providing precise weather forecasts for users</b>
+  - [WeatherWise](https://github.com/mchahal7/WeatherWise.git)
  
 <h2> 🔭 I’m currently working on:</h2>
 
-- **WeatherWise**: A location-specific app providing precise weather forecasts for users</b>
   - [WeatherWise](https://github.com/mchahal7/WeatherWise.git)
 
   
