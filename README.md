@@ -9,6 +9,7 @@ I'm a 21-year-old developer based in Maryland, and I'm passionate about crafting
  
 ## 🔭 I’m currently working on:
 - **WeatherWise**: A location-specific app providing precise weather forecasts for users.
+ - [WeatherWise](https://github.com/mchahal7/WeatherWise.git)
 
   
 <h2> 🤳 Connect with me:</h2>
