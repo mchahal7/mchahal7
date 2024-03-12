@@ -8,7 +8,7 @@ I'm a 21-year-old developer based in Maryland, and I'm passionate about crafting
   - [TaskMaster](https://github.com/mchahal7/To-Do-List.git)
  
 ## 🔭 I’m currently working on:
-- **WeatherWise**: A location-specific app providing precise weather forecasts for users.
+- **WeatherWise**: A location-specific app providing precise weather forecasts for users.</b>
  - [WeatherWise](https://github.com/mchahal7/WeatherWise.git)
 
   
