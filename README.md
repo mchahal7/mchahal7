@@ -6,7 +6,7 @@ Senior studying Information Science with a minor in Information Risk Management,
 ### **1.  [Mr. Beast Content Strategy Analysis](https://medium.com/@mchahal7/the-secret-to-mr-beasts-views-a-data-driven-content-strategy-2f1508b58f69)**
 > Data analysis to uncover the factors and strategies driving the success and massive viewership of Mr. Beast's YouTube content.
 > 
-> **Repository:** [VIEW CODEEEE ON GITHUB](https://github.com/mchahal7/MrBeastDataAnalysis.git)
+> [Repository](https://github.com/mchahal7/MrBeastDataAnalysis.git)
 > 
 ### **2.  [K-Means Customer Review Analysis](https://medium.com/@mchahal7/beyond-the-5-star-lie-using-k-means-clustering-to-find-the-products-deepest-flaw-f7e0d7c178e7)**
 > Application of K-Means Clustering to analyze e-commerce product reviews and uncover hidden customer sentiment flaws beyond simple 5-star ratings.
