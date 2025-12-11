@@ -21,9 +21,9 @@ Senior studying Information Science with a minor in Information Risk Management,
 ### **4.  [Pop Music Network Analysis](https://medium.com/@mchahal7/finding-the-center-of-the-pop-universe-a-network-analysis-a945a7cdd617)**
 > Using network analysis and graph theory to map connections and determine the most influential artists in the pop music industry.
 > 
-> [CODE](https://github.com/mchahal7/Spotify-Network-Analysis.git)
+> [Repository](https://github.com/mchahal7/Spotify-Network-Analysis.git)
 
 ### **5.  [Maryland Road Safety Data Project](https://medium.com/@mchahal7/commutes-crashes-and-data-finding-the-most-dangerous-times-on-maryland-roads-e6659352e7f0)**
 > Analysis of historical accident data to identify the most dangerous times, locations, and contributing factors on Maryland roadways.
 > 
-> [CODE](https://github.com/mchahal7/MDTA-Accidents.git)
+> [Repository](https://github.com/mchahal7/MDTA-Accidents.git)
